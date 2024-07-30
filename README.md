@@ -1,8 +1,12 @@
 # vdbg_2023
 Repositorio de los resultados para el Estudio de Caracterización de las Violencias Digitales Basadas en Genero hecho para Activistasxsl en 2023
 
-Descripción
-Repositorio de los resultados para el Estudio de Caracterización de las Violencias Digitales Basadas en Genero hecho para Activistasxsl en 2023.
+1. La carpeta preliminar contiene el primer procesamiento de los datos.
+2. En la raíz se encuentra el procesamiento final y algunos archivos asociados:
+3. vdbg.ipynb y vdbg.ipynb son los notebooks en los cuales se realizaron los gráficos y tablas.
+4. Los archivos .html contienen la misma información que los notebooks.
+5. La carpeta img contiene los archivos .png asociados a los gráficos.
+6. El notebook mapa_prueba no es relevante, solo contiene las primeras pruebas que se hicieron para obtener el gráfico de localización de respuestas.
 
 Animadas por la dura realidad que supone la inexistencia de datos oficiales en nuestro país sobre la incidencia de las VDBG, decidimos emprender en el 2023 un estudio de caracterización de estas violencias en nuestro país. Por razones inherentes al tema abordado, la principal fuente de información para este estudio fue una consulta en línea, cuya composición se detalló en la sección anterior.
 
